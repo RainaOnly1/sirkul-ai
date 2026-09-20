@@ -2,3 +2,5 @@ node_modules
 dist
 .env
 server/.env
+!.env.example
+server/.env
